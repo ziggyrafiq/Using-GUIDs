@@ -1,0 +1,15 @@
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\bin\Debug\net7.0\Using GUID Code Examples.exe
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\bin\Debug\net7.0\Using GUID Code Examples.deps.json
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\bin\Debug\net7.0\Using GUID Code Examples.runtimeconfig.json
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\bin\Debug\net7.0\Using GUID Code Examples.dll
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\bin\Debug\net7.0\Using GUID Code Examples.pdb
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\obj\Debug\net7.0\Using GUID Code Examples.csproj.AssemblyReference.cache
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\obj\Debug\net7.0\Using GUID Code Examples.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\obj\Debug\net7.0\Using GUID Code Examples.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\obj\Debug\net7.0\Using GUID Code Examples.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\obj\Debug\net7.0\Using GUID Code Examples.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\obj\Debug\net7.0\Using GUID Code Examples.dll
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\obj\Debug\net7.0\refint\Using GUID Code Examples.dll
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\obj\Debug\net7.0\Using GUID Code Examples.pdb
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\obj\Debug\net7.0\Using GUID Code Examples.genruntimeconfig.cache
+E:\GitHub\Articles-Posts\C#\Using GUIDs\Using GUID Code Examples\Using GUID Code Examples\obj\Debug\net7.0\ref\Using GUID Code Examples.dll

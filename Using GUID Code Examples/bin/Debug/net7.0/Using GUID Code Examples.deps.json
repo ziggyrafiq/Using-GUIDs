@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Using GUID Code Examples/1.0.0": {
+        "runtime": {
+          "Using GUID Code Examples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Using GUID Code Examples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
